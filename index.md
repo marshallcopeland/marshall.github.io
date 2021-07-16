@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Marshall Copeland's Pages
+
+Gain the technical and business insight needed to plan, deploy, and manage the services provided by the Microsoft Azure cloud. This second edition focuses on improving operational decision tipping points for the professionals leading DevOps and security teams. This will allow you to make an informed decision concerning the workloads appropriate for your growing business in the Azure public cloud.
 
 You can use the [editor on GitHub](https://github.com/marshallcopeland/marshall.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
